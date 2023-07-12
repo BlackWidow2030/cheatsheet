@@ -85,7 +85,7 @@ nav li {
 }
 
 a {
-  color: hsl(360, 100%, 100%);
+  color: hsl(0, 0%, 0%);
   font-family: 'Caveat', serif;
   
 }
@@ -105,7 +105,7 @@ h1 {
   font-family:  'Caveat';
   font-size: 80px;
   padding: 30px 0px;
-  color: hsl(360, 100%, 100%);
+  color: hsl(0, 0%, 0%);
   /*border-top: 2px solid black;
   border-bottom: 2px solid black;*/
   
